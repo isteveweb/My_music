@@ -17,7 +17,9 @@ Music Player app is a sample Android application build with kotlin for playing m
 - User-Friendly Interface.
 
 
-  **Demo Video**<br/>
+  # Demo Video
+
+https://github.com/isteveweb/My_music/assets/130738521/16ab8b88-6402-4897-964c-09b3a5892e82
 
 
 
